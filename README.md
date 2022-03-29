@@ -3,7 +3,7 @@
  <h1 align="center">
    🌤myWeatherApp🌤
  </h1>
- ## Coded refrencing <a href="https://youtu.be/X2W9MPjrIbk"> this YouTube tutorial</a>
+Coded refrencing <a href="https://youtu.be/X2W9MPjrIbk"> this YouTube tutorial</a>
 
 
 ### Access the three-part written content here:
