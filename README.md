@@ -3,7 +3,7 @@
  <h1 align="center">
    🌤myWeatherApp🌤
  </h1>
- Coded from the WeatherApp built in the <a href="https://youtu.be/X2W9MPjrIbk">YouTube tutorial</a>
+ Coded following <a href="https://youtu.be/X2W9MPjrIbk">YouTube tutorial</a>
 
  Access the three-part written content here:
  - [Weather app Part 1](https://designcode.io/swiftui-advanced-handbook-weather-app-1)
